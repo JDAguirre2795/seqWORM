@@ -1,0 +1,14 @@
+name: tiffprocessing
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - scipy
+  - scikit-image
+  - h5py
+  - tifffile
+  - matplotlib
+  - jupyter
+  - ipykernel
